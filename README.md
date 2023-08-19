@@ -1,4 +1,4 @@
-<img src="https://hamcode.dev/wp-content/uploads/2022/02/sgg21.jpeg"/>
+<img src="https://justarrived.by/media/cache/news_big/uploads/App/Entity/News/544de5ec1e95306a9c56ec74553b9faabe312c67.jpeg"/>
 <h1 align="center">Hi 👋, I'm Ismoil Zaripov</h1>
 <h3 align="center">
    I am a passionate full stack web developer and have been involved in
