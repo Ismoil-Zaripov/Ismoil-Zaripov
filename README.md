@@ -1,6 +1,7 @@
 <img src="https://blog.trusteeglobal.com/wp-content/uploads/2021/07/image1-6.png"/>
 <h1 align="center">Hi 👋, I'm Ismoil Zaripov</h1>
-<h3 align="center">
+<h3>
+   <i>
    I am a passionate full stack web developer and have been involved in
    commercial software development using a variety of skills for the past 3
    years. My passion for software is to dream ideas and bring them to life with
@@ -10,8 +11,8 @@
    Restaurant), Healthcare and Insurance, SAAS and so on. I was actively
    involved in back-end development, front-end development, solutions
    architecture, DevOps engineering, full stack development, technical product
-   management.
-</h3>
+   management.</i>
+</h3> <br><br>
 <img
    align="right"
    width="400"
@@ -39,6 +40,7 @@
 - 💬 Ask me about **React js, Spring framework**
 - 📫 How to reach me **ismoilzaripov55@gmail.com**
 
+<br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <a href="https://twitter.com/ismoii_zaripov" target="blank"
@@ -66,7 +68,7 @@
          width="40"
    /></a>
 </p>
-
+<br><br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -370,7 +372,7 @@
       />
    </a>
 </p>
-
+<br><br>
 <p>
    <img
       align="left"
